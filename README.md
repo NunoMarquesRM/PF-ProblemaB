@@ -11,22 +11,22 @@ Uma linha que indica o número de folhas totais da árvore. Uma matriz p por p q
 Os valores de n e p são potências de dois. E garantido que 0 < p ≤ n ≤ 1024.
 
 # Exemplo de Entrada
-P1
-8 8
-0 0 0 0 1 0 1 0
-0 0 0 0 0 0 0 1
-0 0 0 0 0 0 1 1
-0 0 0 0 0 1 1 1
-0 0 0 0 1 1 1 1
-0 0 0 0 1 1 1 1
-0 0 0 1 1 1 1 1
-0 0 1 1 1 1 1 1
-4
+P1  
+8 8  
+0 0 0 0 1 0 1 0  
+0 0 0 0 0 0 0 1  
+0 0 0 0 0 0 1 1  
+0 0 0 0 0 1 1 1  
+0 0 0 0 1 1 1 1  
+0 0 0 0 1 1 1 1  
+0 0 0 1 1 1 1 1  
+0 0 1 1 1 1 1 1  
+4  
 
 # Exemplo de Saída
-1
-22
-0 0 0 1
-0 0 0 1
-0 0 1 1
-0 1 1 1
+1  
+22  
+0 0 0 1  
+0 0 0 1  
+0 0 1 1  
+0 1 1 1  
