@@ -8,7 +8,7 @@ Uma linha com o valor inteiro que indica a profundidade da folha mais alta da á
 Uma linha que indica o número de folhas totais da árvore. Uma matriz p por p que contém o thumbnail calculado. Esta matriz está organizada em p linhas de p inteiros.
 
 # Limites
-Os valores de n e p são potências de dois. E garantido que 0 < p ≤ n ≤ 1024.
+Os valores de n e p são potências de dois. É garantido que 0 < p ≤ n ≤ 1024.
 
 # Exemplo de Entrada
 P1  
